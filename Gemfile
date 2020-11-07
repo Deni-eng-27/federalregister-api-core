@@ -16,7 +16,7 @@ gem 'passenger', '5.3.7'
 
 gem "jrails", "0.6.0"
 
-gem 'nokogiri', '1.6.0'
+gem 'nokogiri', '1.10.8'
 gem 'curb', '0.9.0'
 gem 'http_headers', '0.0.2.3'
 gem 'geokit', '1.10.0', :require => 'geokit'
